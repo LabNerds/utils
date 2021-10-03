@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise_array.js",
+  "type": "module",
+  "scripts": {
+    "test": "xv test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LabNerds/utils.git"
+  },
+  "author": "Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LabNerds/utils/issues"
+  },
+  "homepage": "https://github.com/LabNerds/utils#readme",
+  "devDependencies": {
+    "xv": "^1.0.2"
+  }
+}
